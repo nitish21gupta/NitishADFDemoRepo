@@ -1,0 +1,9 @@
+{
+	"name": "NG-DF-Test-Environment",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b4d5db03-adfc-4a78-be6f-0a90d52184ac",
+		"tenantId": "deb64337-e9bd-4267-9c46-bc542b02afb7"
+	}
+}
